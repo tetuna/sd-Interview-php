@@ -1,8 +1,10 @@
 # SD interview task.
 
-# Description
-<div align="center">
-  <a href="https://gtd.ge/github-data/testgorilla-php/img/task-1.webp" target="_blank">
-    <img src="https://gtd.ge/github-data/testgorilla-php/img/task-1.webp" alt="Task 1 description" width="100%">
-  </a>
-</div>
+# Description GEO
+დაწერეთ ფუნქცია რომელიც აბრუნებს ფიბონაჩის მიმდევრობას მასივის სახით,
+
+საწყისი და საბოლოო მნიშვნელობა გადაეწოდება ფუნქციას, 
+
+რომლის შუალედშიც უნდა დაგენერირდეს მიმდევრობა და დააბრუნოს.
+
+დაწერეთ ფუნქცია რომელიც შეამოწმებს რიცხვების მიმდევრობა არის თუ არა არითმეტიკული პროგრესია.
